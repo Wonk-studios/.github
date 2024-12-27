@@ -10,7 +10,7 @@ At Elipson Studios, we are a cutting-edge computer laboratory dedicated to explo
 
 We value community engagement and welcome your ideas! You can get involved by:
 - **Pitching Ideas:** Share your thoughts and proposals in our [Discussions](https://github.com/Wonk-studios/.github/discussions).
-- **Collaborating on Projects:** Join us in our self-initiated projects and contribute to groundbreaking work.
+- **Collaborating on Projects:** Join us in our self-initiated projects and contribute to groundbreaking public work.
 
 ## Learn More About Us
 
