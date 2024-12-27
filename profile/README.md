@@ -2,9 +2,9 @@
 
 ![image](https://github.com/user-attachments/assets/39ed1baa-7916-43d8-b3aa-79ec6ca0a134)
 
-## Welcome to Wonk Studios!
+## Welcome to Elipson Studios!
 
-At Wonk Studios, we are a cutting-edge computer laboratory dedicated to exploring the frontiers of technology. Our mission is to innovate, create, and inspire through the power of code.
+At Elipson Studios, we are a cutting-edge computer laboratory dedicated to exploring the frontiers of technology. Our mission is to innovate, create, and inspire through the power of code.
 
 ## Get Involved
 
