@@ -1,7 +1,7 @@
+
 # Hello, World!
 
-![image](https://github.com/user-attachments/assets/39ed1baa-7916-43d8-b3aa-79ec6ca0a134)
-
+![elipsonbanner](https://github.com/user-attachments/assets/71e57f0a-ef3c-4773-8382-28a8cf29c0b7)
 ## Welcome to Elipson Studios!
 
 At Elipson Studios, we are a cutting-edge computer laboratory dedicated to exploring the frontiers of technology. Our mission is to innovate, create, and inspire through the power of code.
